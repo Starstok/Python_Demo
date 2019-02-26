@@ -1,0 +1,14 @@
+{
+    "result": {
+        "subscribers": [],
+        "tracks": [
+            {
+                "name": "one"
+            },
+            {
+                "name": "two"
+            }
+        ]
+    },
+    "code": 200
+}
